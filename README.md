@@ -12,7 +12,7 @@ The robot:
 - Determines the direction with the most clearance  
 - Turns accordingly and continues moving  
 
-This loop allows the robot to navigate around obstacles autonomously.
+This loop allows the robot to navigate around obstacles autonomously. 
 
 ---
 
