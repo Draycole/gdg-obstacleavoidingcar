@@ -31,4 +31,47 @@ This loop allows the robot to navigate around obstacles autonomously.
 <!-- _Add photos and GIFs in a `/media` folder and link them here._ -->
 
 
+---
+
+## 🔌 Circuit Diagram
+_Add your schematic in `/schematics/diagram.png`._
+
+---
+
+## 🧠 How It Works
+1. Robot moves forward for ~2 seconds  
+2. Stops and takes three distance readings  
+3. Compares them to find the safest direction  
+4. Executes a left turn, right turn, reverse, or forward continuation  
+5. Repeats indefinitely  
+
+---
+
+## 💻 Code
+The full Arduino code is available in `/code/robot.ino`.
+
+---
+
+## 🚀 Setup & Usage
+1. Assemble the chassis and connect motors to L298N  
+2. Connect the ultrasonic sensor to Arduino  
+3. Wire L298N to Arduino digital pins  
+4. Upload the code  
+5. Power the robot using the battery pack  
+6. Place it on a flat surface and let it run
+
+---
+
+## 📚 Future Improvements
+- Add Bluetooth override mode  
+- Add IR edge detection sensors  
+- Replace prototype chassis with a full kit  
+- Implement PID-based turning for smoother maneuvers  
+
+---
+
+## 📄 License
+This project is licensed under the **MIT License**.
+
+
 
