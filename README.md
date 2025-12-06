@@ -35,7 +35,7 @@ This loop allows the robot to navigate around obstacles autonomously.
 ---
 
 ## 🔌 Circuit Diagram
-_Add your schematic in `/schematics/diagram.png`._
+<!--_Add your schematic in `/schematics/diagram.png`._-->
 
 ---
 
