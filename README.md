@@ -55,11 +55,12 @@ The full Arduino code is available in `/code/robot.ino`.
 
 ## 🚀 Setup & Usage
 1. Assemble the chassis and connect motors to L298N  
-2. Connect the ultrasonic sensor to Arduino  
-3. Wire L298N to Arduino digital pins  
-4. Upload the code  
-5. Power the robot using the battery pack  
-6. Place it on a flat surface and let it run
+2. Set the ultrasonic sensor on the servo, mounted on the chassis  
+3. Connect the ultrasonic sensor to Arduino
+4. Wire L298N to Arduino digital pins  
+5. Upload the code  
+6. Power the robot using the battery pack  
+7. Place it on a flat surface and let it run
 
 ---
 
