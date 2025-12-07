@@ -1,6 +1,6 @@
 # Autonomous Obstacle-Avoiding Robot (Prototype Build)
 
-This is a simple autonomous robot built as a **minimum working model** for the GDG Roobotics & Embedded Systems Track. Using an ultrasonic sensor, it continuously scans its surroundings and chooses the safest direction to move.  
+This is a simple autonomous robot built as a **minimum working model** for the GDG Robotics & Embedded Systems Track. Using an ultrasonic sensor, it continuously scans its surroundings and chooses the safest direction to move.  
 Despite limited components at the time, the team assembled a fully functional prototype during a study jam session.
 
 ---
