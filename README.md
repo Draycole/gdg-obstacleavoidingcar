@@ -49,7 +49,7 @@ This loop allows the robot to navigate around obstacles autonomously.
 ---
 
 ## 💻 Code
-The full Arduino code is available in `/code/robot.ino`.
+The full Arduino code is available in `/code/sourcecode/sourcecode.ino`.
 
 ---
 
