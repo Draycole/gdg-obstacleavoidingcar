@@ -1,0 +1,12 @@
+Ultrasonic Sensor
+Trig - 9
+Echo - 10
+
+Servo
+PWM - 11
+
+L298N
+Motor1Pin1 - 2
+Motor1Pin2 - 3
+Motor2Pin1 - 4
+Motor2Pin2 - 5
