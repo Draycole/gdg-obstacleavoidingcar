@@ -29,7 +29,7 @@ This loop allows the robot to navigate around obstacles autonomously.
 
 ## 📸 Media
 <!-- _Add photos and GIFs in a `/media` folder and remember to link them here bro._ -->
-![Project Demo Pic](./media/pic%201.jpg)
+![Project Demo Pic](./media/demo%20video.gif)
 
 
 ---
