@@ -1,6 +1,6 @@
 # Autonomous Obstacle-Avoiding Robot (Prototype Build)
 
-This is a simple autonomous robot built as a **minimum working model** for the GDG Roobotics & Embedded Systems Track. Using an ultrasonic sensor, it continuously scans its surroundings and chooses the safest direction to move.  
+This is a simple autonomous robot built as a **minimum working model** for the GDG Robotics & Embedded Systems Track. Using an ultrasonic sensor, it continuously scans its surroundings and chooses the safest direction to move.  
 Despite limited components at the time, the team assembled a fully functional prototype during a study jam session.
 
 ---
@@ -28,13 +28,14 @@ This loop allows the robot to navigate around obstacles autonomously.
 ---
 
 ## 📸 Media
-<!-- _Add photos and GIFs in a `/media` folder and link them here._ -->
+<!-- _Add photos and GIFs in a `/media` folder and remember to link them here bro._ -->
+![Project Demo Pic](./media/pic%201.jpg)
 
 
 ---
 
 ## 🔌 Circuit Diagram
-_Add your schematic in `/schematics/diagram.png`._
+<!--_Add your schematic in `/schematics/diagram.png`._-->
 
 ---
 
@@ -54,11 +55,12 @@ The full Arduino code is available in `/code/robot.ino`.
 
 ## 🚀 Setup & Usage
 1. Assemble the chassis and connect motors to L298N  
-2. Connect the ultrasonic sensor to Arduino  
-3. Wire L298N to Arduino digital pins  
-4. Upload the code  
-5. Power the robot using the battery pack  
-6. Place it on a flat surface and let it run
+2. Set the ultrasonic sensor on the servo, mounted on the chassis  
+3. Connect the ultrasonic sensor to Arduino
+4. Wire L298N to Arduino digital pins  
+5. Upload the code  
+6. Power the robot using the battery pack  
+7. Place it on a flat surface and let it run
 
 ---
 
