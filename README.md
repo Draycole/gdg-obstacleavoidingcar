@@ -8,7 +8,9 @@ Despite limited components at the time, the team assembled a fully functional pr
 ## 🚗 Overview
 The robot:
 - Moves forward for a short interval  
-
+- Pauses and scans **left, front, and right**  
+- Determines the direction with the most clearance  
+- Turns accordingly and continues moving  
 
 This loop allows the robot to navigate around obstacles autonomously. 
 
